@@ -1,7 +1,5 @@
 # WikiApp-Restful-API-
 
-
-
 DATABASE collections:
 
 {
@@ -30,6 +28,8 @@ DATABASE collections:
     "title" : "DOM",
     "content" : "The Document Object Model is like an API for interacting with our HTML"
 }
+
+
 {
     "_id" : "5c18f35cde40ab6cc551cd60",
     "title" : "Jack Bauer",
